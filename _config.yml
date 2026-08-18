@@ -12,12 +12,8 @@ site_theme               : "sunrise" # The available themes options are "default
 title                    : "Sarah Quynh-Giang Ho / Hydrologist"
 title_separator          : "-"
 name                     : &name "Sarah Quynh-Giang Ho"
-description              : &description "Sarah's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-<<<<<<< HEAD
-url                      : "https://sarahquynhgiang.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-=======
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
->>>>>>> 5cfbe12a3f1a51ee82ea0af06a5f333ffa83f4bd
+description              : &description "Sarah's academic portfolio"
+url                      : https://sarahquynhgiang.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sarahquynhgiang/academicpages.github.io"
@@ -27,11 +23,7 @@ repository               : "sarahquynhgiang/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-<<<<<<< HEAD
   avatar           : "headshot.jpg"
-=======
-  avatar           : "profile.png"
->>>>>>> 5cfbe12a3f1a51ee82ea0af06a5f333ffa83f4bd
   name             : "Sarah Quynh-Giang Ho"
   pronouns         : "she/her"  
   bio              : "Dr.-Ing, Hydrology"
