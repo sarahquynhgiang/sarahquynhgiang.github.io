@@ -233,6 +233,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  workshop_fd:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -290,7 +293,16 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _workshop_fd
+  - scope:
+      path: ""
+      type: workshop_fd
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+      
 
 # Sass/SCSS
 sass:
