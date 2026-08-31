@@ -25,6 +25,9 @@ main:
     
   - title: "CV"
     url: /cv/
+  
+  - title: "Flash Drought Workshop"
+    url: /workshop_fd/
     
   # - title: "CV"
   #   url: /cv-json/
