@@ -18,15 +18,19 @@ We invite researchers and organizations from various backgrounds to join us for 
  * **Registration and Abstract Submission Deadline**: 30.10.2026. 
  
  We invite flash drought-related contributions from researchers of all career stages, but particularly from early career researchers and researchers with diverse or disadvantaged backgrounds such as women, members of the LGBTQ+ community, researchers with disabilities, and researchers from historically overexploited countries.
- 
-{% include base_path %}
 
 ## Workshop Details
+
 ### [Registration]({% link _workshop_fd/registration.html %})
 Registration is open until 30.10.2026 or until the limit of 40 participants is reached. If you have registered but are no longer able to attend, please deregister <a href= "mailto:sarah.ho@kit.edu">by sending an email</a> ASAP. 
 
 ### [Schedule]({% link _workshop_fd/schedule.md %})
 The schedule is subject to change until the beginning of November.
+
+## Workshop Organizers
+**Chair**: Sarah Quynh-Giang Ho (KIT)
+
+**Committee Members**: Andrea Leonor Campoverde Marquez (KIT), Pedro Henrique Lima Alencar (TU Berlin)
 
 ## Workshop Location
 
