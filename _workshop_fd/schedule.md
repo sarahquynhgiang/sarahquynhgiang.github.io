@@ -24,7 +24,7 @@ This schedule is tentative and subject to change.
 |			| Eugenia Aikaterini Stavropoulou (12 mins + 5 min Q&A)						|
 |			| Andrea Toreti (12 mins + 5 min Q&A)										|
 |			| Tino Wilhelm-Degenhardt	(12 mins + 5 min Q&A)							|
-|	10:15	| Coffee break 																|
+|	10:30	| Coffee break 																|
 |	11:00	| **Session 2: Streamflow drought and flash drought**						|
 |			| **Keynote: Pallavi Goswami (20 mins + 5 min Q&A)**						|
 |			| Uliana Lumei	(12 mins + 5 min Q&A)										|
