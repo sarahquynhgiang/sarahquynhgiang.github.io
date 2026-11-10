@@ -22,6 +22,7 @@ This schedule is tentative and subject to change.
 |	9:15	| **Session 1: General flash drought - definitions, trends, identification**|
 |			| **Keynote: Friedrich Boeing (20 mins + 5 min Q&A)**						|
 |			| Eugenia Aikaterini Stavropoulou (12 mins + 5 min Q&A)						|
+|			| Andrea Toreti (12 mins + 5 min Q&A)										|
 |			| Tino Wilhelm-Degenhardt	(12 mins + 5 min Q&A)							|
 |	10:15	| Coffee break 																|
 |	11:00	| **Session 2: Streamflow drought and flash drought**						|
